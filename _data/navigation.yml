@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "People"
+    url: /people/
+
+  - title: "Research"
+    url: /Research/
+
+  - title: "Publications"
+    url: /Publications/
+    
+  - title: "Gallery"
+    url: /Gallery/
