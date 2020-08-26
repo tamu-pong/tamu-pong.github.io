@@ -31,12 +31,12 @@ A high resolution hindcast model has been developed for Copano Bay, a broad, sha
 
 TX-LA Hindcast Modeling
 =====
-![TXLA Hindcast](../images/txla_hindcast.png )
+![TXLA Hindcast](../images/TXLA_hindcast.png )
 A high resolution hindcast model has been run for the years 1993-Present. Model output is posted on a Thredds server and movies can be found online as well. Higher temporal resolution model output is also available.
 
 TX-LA Forecast Modeling
 =====
-![TXLA Forecast](../images/txla_forecast.png )
+![TXLA Forecast](../images/TXLA_forecast.png )
 
 Images from a forecast simulation of the Texas-Louisiana shelf are available online.
 
