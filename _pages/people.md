@@ -41,7 +41,7 @@ Students
 ### [Tianxiang 'Ronnie' Gao](https://ocean.tamu.edu/people/profiles/students/gaotianxiang.html)
 ![PhD Student](../images/ronnie.jpeg "Tianxiang Gao")
 
-Ronnie is a third year PhD student who received his B.S. in oceanography from Ocean University of China in 2014 and his M.S. in physical oceanography in 2017. Currently, his research focuses on numerical modeling of Copano Bay, an estuary along the Gulf Coast. His research seeks to understand the drivers of mixing and the salinity structure.
+Ronnie is a third year PhD student who received his B.S. in oceanography from Ocean University of China in 2015 and his M.S. in physical oceanography in 2018. Currently, his research focuses on numerical modeling of Copano Bay, an estuary along the Gulf Coast. His research seeks to understand the drivers of mixing and the salinity structure.
 
 ### [Dylan Schlichting](https://ocean.tamu.edu/people/profiles/students/schlichtingdylan.html)
 ![PhD Student](../images/dylan.jpg "Dylan Schlichting")
