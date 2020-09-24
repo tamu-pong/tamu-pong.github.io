@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Physical Oceanography Numerical Group"
+title                    : "Dylan Schlichting"
 title_separator          : "-"
-name                     : &name "Physical Oceanography Numerical Group"
-url                      : "https://tamu-pong.github.io"
+name                     : &name "Dylan Schlichting"
+url                      : "dylanschlichting.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tamu-pong/tamu-pong.github.io"
+repository               : "dylanschlichting/dylanschlichting.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
